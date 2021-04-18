@@ -1,5 +1,6 @@
-# D-503--Game-Portal
+# SASS Game Portal Template
+
 SASS project
 Thanks Arin Software
 
-https://ninjas-cw.github.io/D-503--Game-Portal/
+https://sfkse.github.io/SassTemplate/
